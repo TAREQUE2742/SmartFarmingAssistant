@@ -57,11 +57,11 @@
                         <li><a runat="server" href="~/Contact">Food & Nutrition </a></li>
                         <li><a runat="server" href="~/Contact">Language </a>
                             <ul>
-                                <li><a runat="server" href="~/">English</a></li>
-                                <li><a runat="server" href="~/BanglaPages/BanglaDefault">Bangla">Bangla</a></li>
+                                <li><a runat="server" href="../BanglaPages/Default">English</a></li>
+                                <li><a runat="server" href="~/BanglaPages/BanglaDefault">বাংলা</a></li>
                             </ul>
                         </li>
-                        <li><a runat="server" href="~/Contact">Login </a>
+                        <li><a runat="server" href="~/Account">Account </a>
                         <li><a runat="server" href="~/Contact">Shop </a>
                     </ul>
                 </div>

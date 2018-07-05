@@ -1,3 +1,9 @@
+E:\SFA\SmartFarmingAssistant\SmartFarmingAssistant\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+E:\SFA\SmartFarmingAssistant\SmartFarmingAssistant\bin\roslyn\Microsoft.CodeAnalysis.dll
+E:\SFA\SmartFarmingAssistant\SmartFarmingAssistant\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+E:\SFA\SmartFarmingAssistant\SmartFarmingAssistant\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+E:\SFA\SmartFarmingAssistant\SmartFarmingAssistant\bin\roslyn\System.IO.Compression.dll
+E:\SFA\SmartFarmingAssistant\SmartFarmingAssistant\bin\roslyn\VBCSCompiler.exe
 E:\SFA\SmartFarmingAssistant\SmartFarmingAssistant\bin\ApplicationInsights.config
 E:\SFA\SmartFarmingAssistant\SmartFarmingAssistant\bin\SmartFarmingAssistant.dll.config
 E:\SFA\SmartFarmingAssistant\SmartFarmingAssistant\bin\SmartFarmingAssistant.dll
@@ -9,13 +15,9 @@ E:\SFA\SmartFarmingAssistant\SmartFarmingAssistant\bin\roslyn\csi.exe
 E:\SFA\SmartFarmingAssistant\SmartFarmingAssistant\bin\roslyn\csi.exe.config
 E:\SFA\SmartFarmingAssistant\SmartFarmingAssistant\bin\roslyn\csi.rsp
 E:\SFA\SmartFarmingAssistant\SmartFarmingAssistant\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
-E:\SFA\SmartFarmingAssistant\SmartFarmingAssistant\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
 E:\SFA\SmartFarmingAssistant\SmartFarmingAssistant\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
-E:\SFA\SmartFarmingAssistant\SmartFarmingAssistant\bin\roslyn\Microsoft.CodeAnalysis.dll
 E:\SFA\SmartFarmingAssistant\SmartFarmingAssistant\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
-E:\SFA\SmartFarmingAssistant\SmartFarmingAssistant\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
 E:\SFA\SmartFarmingAssistant\SmartFarmingAssistant\bin\roslyn\Microsoft.CSharp.Core.targets
-E:\SFA\SmartFarmingAssistant\SmartFarmingAssistant\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
 E:\SFA\SmartFarmingAssistant\SmartFarmingAssistant\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
 E:\SFA\SmartFarmingAssistant\SmartFarmingAssistant\bin\roslyn\Microsoft.VisualBasic.Core.targets
 E:\SFA\SmartFarmingAssistant\SmartFarmingAssistant\bin\roslyn\Microsoft.Win32.Primitives.dll
@@ -25,7 +27,6 @@ E:\SFA\SmartFarmingAssistant\SmartFarmingAssistant\bin\roslyn\System.Console.dll
 E:\SFA\SmartFarmingAssistant\SmartFarmingAssistant\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
 E:\SFA\SmartFarmingAssistant\SmartFarmingAssistant\bin\roslyn\System.Diagnostics.Process.dll
 E:\SFA\SmartFarmingAssistant\SmartFarmingAssistant\bin\roslyn\System.Diagnostics.StackTrace.dll
-E:\SFA\SmartFarmingAssistant\SmartFarmingAssistant\bin\roslyn\System.IO.Compression.dll
 E:\SFA\SmartFarmingAssistant\SmartFarmingAssistant\bin\roslyn\System.IO.FileSystem.dll
 E:\SFA\SmartFarmingAssistant\SmartFarmingAssistant\bin\roslyn\System.IO.FileSystem.DriveInfo.dll
 E:\SFA\SmartFarmingAssistant\SmartFarmingAssistant\bin\roslyn\System.IO.FileSystem.Primitives.dll
@@ -48,7 +49,6 @@ E:\SFA\SmartFarmingAssistant\SmartFarmingAssistant\bin\roslyn\System.Xml.XPath.X
 E:\SFA\SmartFarmingAssistant\SmartFarmingAssistant\bin\roslyn\vbc.exe
 E:\SFA\SmartFarmingAssistant\SmartFarmingAssistant\bin\roslyn\vbc.exe.config
 E:\SFA\SmartFarmingAssistant\SmartFarmingAssistant\bin\roslyn\vbc.rsp
-E:\SFA\SmartFarmingAssistant\SmartFarmingAssistant\bin\roslyn\VBCSCompiler.exe
 E:\SFA\SmartFarmingAssistant\SmartFarmingAssistant\bin\roslyn\VBCSCompiler.exe.config
 E:\SFA\SmartFarmingAssistant\SmartFarmingAssistant\bin\Antlr3.Runtime.dll
 E:\SFA\SmartFarmingAssistant\SmartFarmingAssistant\bin\AspNet.ScriptManager.bootstrap.dll
@@ -81,8 +81,8 @@ E:\SFA\SmartFarmingAssistant\SmartFarmingAssistant\bin\Microsoft.AI.DependencyCo
 E:\SFA\SmartFarmingAssistant\SmartFarmingAssistant\bin\Microsoft.AI.WindowsServer.xml
 E:\SFA\SmartFarmingAssistant\SmartFarmingAssistant\bin\Microsoft.AI.Web.xml
 E:\SFA\SmartFarmingAssistant\SmartFarmingAssistant\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
-E:\SFA\SmartFarmingAssistant\SmartFarmingAssistant\obj\Debug\SmartFarmingAssistant.csprojAssemblyReference.cache
 E:\SFA\SmartFarmingAssistant\SmartFarmingAssistant\obj\Debug\SmartFarmingAssistant.csproj.CoreCompileInputs.cache
 E:\SFA\SmartFarmingAssistant\SmartFarmingAssistant\obj\Debug\SmartFarmingAssistant.csproj.CopyComplete
 E:\SFA\SmartFarmingAssistant\SmartFarmingAssistant\obj\Debug\SmartFarmingAssistant.dll
 E:\SFA\SmartFarmingAssistant\SmartFarmingAssistant\obj\Debug\SmartFarmingAssistant.pdb
+E:\SFA\SmartFarmingAssistant\SmartFarmingAssistant\obj\Debug\SmartFarmingAssistant.csprojAssemblyReference.cache

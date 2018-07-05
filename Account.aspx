@@ -14,7 +14,8 @@
                 <h1 class="log">Sign In</h1>
                   <asp:TextBox ID="tusername" CssClass="lusername" placeholder="Username" runat="server" Width="100%"></asp:TextBox>
                  <asp:RegularExpressionValidator runat="server" ID="revusername" ControlToValidate="tusername" ErrorMessage="Invalid Email Address" ForeColor="Red" ValidationExpression="\w+([-+.']\w+)*@\w+([-.]\w+)*\.\w+([-.]\w+)*"></asp:RegularExpressionValidator>
-                  <asp:TextBox ID="tpassword" CssClass="lpassword" placeholder="Password" Type="password" runat="server" Width="100%"></asp:TextBox>
+                  <asp:TextBox ID="tpassword" CssClass="lpassword" placeholder="Password" Type="password" runat="server" Width="100%"></asp:TextBox><br />
+                 <asp:Button ID="login" CssClass="ssignup"  type="login" name="login" runat="server" Text="Login" />
                  <asp:Label runat="server" ID="lblusersms" Width="100%" ForeColor="Red"></asp:Label>
                  </center>
 

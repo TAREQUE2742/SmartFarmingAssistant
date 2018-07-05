@@ -6,7 +6,7 @@
 <head runat="server">
     <meta charset="utf-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-    <title><%: Page.Title %>  বাংলার মাটি</title>
+    <title><%: Page.Title %>SFA</title>
 
     <asp:PlaceHolder runat="server">
         <%: Scripts.Render("~/bundles/modernizr") %>
@@ -46,25 +46,21 @@
                         <span class="icon-bar"></span>
                         <span class="icon-bar"></span>
                     </button>
-                    <a class="navbar-brand" runat="server" href="~/">এস এফ এ</a>
+                    <a class="navbar-brand" runat="server" href="~/">SFA</a>
                 </div>
                 <div class="navbar-collapse collapse nav">
                     <ul class="nav navbar-nav">
-                        <li><a runat="server" href="~/">কৃষি অঞ্চল</a></li>
-                        <li><a runat="server" href="~/About">মাটি</a></li>
-                        <li><a runat="server" href="~/Contact">ফসলেরজাত  সমূহ</a></li>
-                        <li><a runat="server" href="~/Contact">ফসল চাষাবাদ</a></li>
-                        <li><a runat="server" href="~/Contact">খাদ্য ও পুষ্টি </a></li>
-                        <li><a runat="server" href="~/Contact">ভাষা </a>
-                            <ul>
-                                <li><a href="~/Default.aspx">English</a>
-                                <li><a href="#">বাংলা</a>
-                            </ul>
-                        </li>
-                        <li><a runat="server" href="~/Contact">লগইন </a>
-                        <li><a runat="server" href="~/Contact">দোকান </a>
+                        <li><a runat="server" href="~/">Agricultural land</a></li>
+                        <li><a runat="server" href="~/About">Soil</a></li>
+                        <li><a runat="server" href="~/Contact">Species of crop</a></li>
+                        <li><a runat="server" href="~/Contact">Crop cultivation</a></li>
+                        <li><a runat="server" href="~/Contact">Agriculture in Current Season </a></li>
+                        <li><a  runat="server" href="~/BanglaPages/BanglaDefault">বাংলা</a></li>
+                        <li><a runat="server" href="~/Account">Account </a>
+                        <li><a runat="server" href="~/Contact">Shop </a>
                     </ul>
                 </div>
+                
             </div>
         </div>
         <div class="container body-content">

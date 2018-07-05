@@ -187,6 +187,14 @@
     <Content Include="Scripts\WebForms\WebForms.js" />
     <Content Include="Scripts\WebForms\WebParts.js" />
     <Content Include="Scripts\WebForms\WebUIValidation.js" />
+    <Content Include="shortinfo\101.aspx" />
+    <Content Include="shortinfo\102.aspx" />
+    <Content Include="shortinfo\103.aspx" />
+    <Content Include="shortinfo\104.aspx" />
+    <Content Include="shortinfo\201.aspx" />
+    <Content Include="shortinfo\202.aspx" />
+    <Content Include="shortinfo\203.aspx" />
+    <Content Include="shortinfo\204.aspx" />
     <Content Include="Site.Master" />
     <Content Include="ViewSwitcher.ascx" />
     <Content Include="Web.config" />
@@ -242,6 +250,62 @@
       <DependentUpon>Global.asax</DependentUpon>
     </Compile>
     <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="shortinfo\101.aspx.cs">
+      <DependentUpon>101.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="shortinfo\101.aspx.designer.cs">
+      <DependentUpon>101.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="shortinfo\102.aspx.cs">
+      <DependentUpon>102.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="shortinfo\102.aspx.designer.cs">
+      <DependentUpon>102.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="shortinfo\103.aspx.cs">
+      <DependentUpon>103.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="shortinfo\103.aspx.designer.cs">
+      <DependentUpon>103.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="shortinfo\104.aspx.cs">
+      <DependentUpon>104.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="shortinfo\104.aspx.designer.cs">
+      <DependentUpon>104.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="shortinfo\201.aspx.cs">
+      <DependentUpon>201.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="shortinfo\201.aspx.designer.cs">
+      <DependentUpon>201.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="shortinfo\202.aspx.cs">
+      <DependentUpon>202.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="shortinfo\202.aspx.designer.cs">
+      <DependentUpon>202.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="shortinfo\203.aspx.cs">
+      <DependentUpon>203.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="shortinfo\203.aspx.designer.cs">
+      <DependentUpon>203.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="shortinfo\204.aspx.cs">
+      <DependentUpon>204.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="shortinfo\204.aspx.designer.cs">
+      <DependentUpon>204.aspx</DependentUpon>
+    </Compile>
     <Compile Include="Site.Master.cs">
       <DependentUpon>Site.Master</DependentUpon>
       <SubType>ASPXCodeBehind</SubType>
@@ -267,6 +331,8 @@
   <ItemGroup>
     <Folder Include="App_Data\" />
     <Folder Include="images\" />
+    <Folder Include="js\" />
+    <Folder Include="slider\" />
   </ItemGroup>
   <ItemGroup>
     <None Include="packages.config" />

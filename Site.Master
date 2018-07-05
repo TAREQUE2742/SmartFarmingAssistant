@@ -6,7 +6,7 @@
 <head runat="server">
     <meta charset="utf-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-    <title><%: Page.Title %> - My ASP.NET Application</title>
+    <title><%: Page.Title %>SAF</title>
 
     <asp:PlaceHolder runat="server">
         <%: Scripts.Render("~/bundles/modernizr") %>
@@ -34,6 +34,8 @@
                 <asp:ScriptReference Name="WebParts.js" Assembly="System.Web" Path="~/Scripts/WebForms/WebParts.js" />
                 <asp:ScriptReference Name="Focus.js" Assembly="System.Web" Path="~/Scripts/WebForms/Focus.js" />
                 <asp:ScriptReference Name="WebFormsBundle" />
+
+
                 <%--Site Scripts--%>
             </Scripts>
         </asp:ScriptManager>
@@ -46,28 +48,24 @@
                         <span class="icon-bar"></span>
                         <span class="icon-bar"></span>
                     </button>
-                    <a class="navbar-brand" runat="server" href="~/">SFA</a>
+                    <a class="navbar-brand" runat="server" href="~/">এস এফ এ</a>
                 </div>
                 <div class="navbar-collapse collapse nav">
                     <ul class="nav navbar-nav">
-                        <li><a runat="server" href="~/">Agricultural land</a></li>
-                        <li><a runat="server" href="~/About">Soil</a></li>
-                        <li><a runat="server" href="~/Contact">Species of crop</a></li>
-                        <li><a runat="server" href="~/Contact">Crop cultivation</a></li>
-                        <li><a runat="server" href="~/Contact">Food & Nutrition </a></li>
-                        <li><a runat="server" href="~/Contact">Language </a>
-                            <ul>
-                                <li><a runat="server" href="../BanglaPages/Default">English</a></li>
-                                <li><a runat="server" href="~/BanglaPages/BanglaDefault">বাংলা</a></li>
-                            </ul>
-                        </li>
-                        <li><a runat="server" href="~/Account">Account </a>
-                        <li><a runat="server" href="~/Contact">Shop </a>
+                        <li><a runat="server" href="~/">কৃষি অঞ্চল</a></li>
+                        <li><a runat="server" href="~/About">মাটি</a></li>
+                        <li><a runat="server" href="~/Contact">ফসলেরজাত  সমূহ</a></li>
+                        <li><a runat="server" href="~/Contact">ফসল চাষাবাদ</a></li>
+                        <li><a runat="server" href="~/Contact">খাদ্য ও পুষ্টি </a></li>
+                        <li><a runat="server" href="~/BanglaPages/BanglaDefault">English </a></li>
+                        <li><a runat="server" href="~/Account">লগইন </a>
+                        <li><a runat="server" href="~/Contact">দোকান </a>
                     </ul>
                 </div>
             </div>
         </div>
-        <div class="container body-content">
+
+        <div class="container">
             <asp:ContentPlaceHolder ID="MainContent" runat="server">
             </asp:ContentPlaceHolder>
             <hr />

@@ -133,10 +133,9 @@
 		<h4>কৃষি তথ্য</h4>
 		<img src="images/contents/abc.jpg" style="float:left;margin-right:40px;" alt="কৃষি তথ্য" width="110" height="">	
 		<ul>
-			<li><a href="~/shortinfo/201" title="ফসলের উৎপাদন প্রযুক্তি (ই-কৃষি)">ফসলের উৎপাদন প্রযুক্তি (ই-কৃষি)</a></li>
-			<li><a href="/site/view/krishi_kotha/অনলাইনে-কৃষিকথা-" title="অনলাইনে কৃষিকথা ">অনলাইনে কৃষিকথা </a></li>
-			<li><a href="/site/page/e1f25047-3be5-4d02-82be-0d1b584c6ee4/কৃষিভিত্তিক-ভিডিও" title="কৃষিভিত্তিক ভিডিও">কৃষিভিত্তিক ভিডিও</a></li>
-			<li><a href="/site/files/856dea43-beb4-4ff4-9784-519ec7428a0e/কৃষিবিষয়ক-তথ্য-উপাত্ত" title="কৃষিবিষয়ক তথ্য উপাত্ত">কৃষিবিষয়ক তথ্য উপাত্ত</a></li>
+			<li><a runat="server" href="~/shortinfo/301">ফসলের উৎপাদন প্রযুক্তি (ই-কৃষি)</a></li>
+			<li><a runat="server" href="~/shortinfo/302">কৃষিভিত্তিক ভিডিও</a></li>
+			<li><a runat="server" href="~/shortinfo/304">কৃষিবিষয়ক তথ্য উপাত্ত</a></li>
 			
 		</ul>
 	</div>

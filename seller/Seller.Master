@@ -1,4 +1,4 @@
-﻿<%@ Master Language="C#" AutoEventWireup="true" CodeBehind="Seller.master.cs" Inherits="SmartFarmingAssistant.seller.Seller" %>
+﻿ss<%@ Master Language="C#" AutoEventWireup="true" CodeBehind="Seller.master.cs" Inherits="SmartFarmingAssistant.seller.Seller" %>
 
 <!DOCTYPE html>
 
